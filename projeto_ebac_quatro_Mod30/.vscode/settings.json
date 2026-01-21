@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src\\main\\java",
+        "src\\test\\java"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\djalm\\Documents\\repositórios\\driver plugins_\\junit-4.13.2.jar"
+    ]
+}
